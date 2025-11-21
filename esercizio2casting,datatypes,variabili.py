@@ -58,3 +58,14 @@ c = 45
 print(a < b)
 print(b > c)
 print(a < c)
+
+#Esercizi sul casting
+#Esercizio1: un intero in un float
+x = 10
+y = float(x)
+print(y)
+
+#Esercizio2: convertire un numero in una stringa
+n = 4550
+s = str(n)
+print("Il numero è: ", s)
