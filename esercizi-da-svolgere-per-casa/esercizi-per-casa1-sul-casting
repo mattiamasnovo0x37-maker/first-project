@@ -1,0 +1,2 @@
+input("Inserisci un numero intero ")
+print(input)
